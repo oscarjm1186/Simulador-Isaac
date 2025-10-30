@@ -43,15 +43,15 @@ const App: React.FC = () => {
         <main className="mt-8 bg-slate-800 rounded-2xl shadow-2xl p-6 sm:p-8">
           {quizState === 'start' && (
             <div className="text-center">
-              <h2 className="text-2xl sm:text-3xl font-bold text-cyan-400 mb-4">Welcome to the Simulation Exam</h2>
+              <h2 className="text-2xl sm:text-3xl font-bold text-cyan-400 mb-4">Bienvenido Gay</h2>
               <p className="text-slate-300 mb-8 max-w-2xl mx-auto">
-                This is a simulation for the EGEL Plus ADMON exam. You will be presented with multiple-choice questions. Select the best answer for each. Your results will be available at the end.
+                Esta es una simulación de tu examen hecha por tu super carnal, cuando termines en automático te dará tu resultado.
               </p>
               <button
                 onClick={handleStartQuiz}
                 className="bg-cyan-500 hover:bg-cyan-600 text-white font-bold py-3 px-8 rounded-lg text-lg transition-transform transform hover:scale-105"
               >
-                Start Exam
+                Empezar
               </button>
             </div>
           )}
