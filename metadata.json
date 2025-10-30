@@ -1,0 +1,5 @@
+{
+  "name": "Interactive Simulation Exam",
+  "description": "An interactive web application to take a simulation exam for the Bachelor's Degree in Administration (EGEL Plus ADMON). Users can answer questions and get an automated score and review at the end.",
+  "requestFramePermissions": []
+}
